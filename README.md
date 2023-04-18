@@ -25,10 +25,12 @@ Refine the conceptual diagram of the 3-digit decimal counter on page 208, and de
 A top module, instantiating the frequency divider and the 3-digit decimal counter, realizes the required functions.
 
 Two-segment coding style is required for sequential circuits.
-For the test bench design, refer to the example in pages 215 – 220.
+
 Implement and show your design on the Nexys 4DDR board.
 
 ## simulation
+
+For the test bench design, refer to the example in pages 215 – 220.
 
 ### behavioral
 
